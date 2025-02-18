@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "234455896219",
+    "project_id": "learning-bloc-88715",
+    "storage_bucket": "learning-bloc-88715.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234455896219:android:f669eeeb9ab1c12881363e",
+        "android_client_info": {
+          "package_name": "com.skiacoffee.skia_coffee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi03fLziZcfDxWHPyTo5A5TN0r8rgHixI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234455896219:android:0e28f524dd6bd44081363e",
+        "android_client_info": {
+          "package_name": "me.sheershbhatnagar.dhvanika"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi03fLziZcfDxWHPyTo5A5TN0r8rgHixI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
