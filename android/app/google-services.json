@@ -1,45 +1,74 @@
 {
   "project_info": {
-    "project_number": "234455896219",
-    "project_id": "learning-bloc-88715",
-    "storage_bucket": "learning-bloc-88715.appspot.com"
+    "project_number": "710213675169",
+    "firebase_url": "https://baadal-1ea2c-default-rtdb.firebaseio.com",
+    "project_id": "baadal-1ea2c",
+    "storage_bucket": "baadal-1ea2c.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:234455896219:android:f669eeeb9ab1c12881363e",
+        "mobilesdk_app_id": "1:710213675169:android:8af129acf84a8f486a28e0",
         "android_client_info": {
-          "package_name": "com.skiacoffee.skia_coffee"
+          "package_name": "me.sheershbhatnagar.dhvanika"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "710213675169-sov6a2ven70l0c48jr7isr8polo0fttn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
-          "current_key": "AIzaSyAi03fLziZcfDxWHPyTo5A5TN0r8rgHixI"
+          "current_key": "AIzaSyAvGVgIFglrwiWTCT8oGA3B9kjsAirKmDA"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710213675169-sov6a2ven70l0c48jr7isr8polo0fttn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:234455896219:android:0e28f524dd6bd44081363e",
+        "mobilesdk_app_id": "1:710213675169:android:342880810ec9eaff6a28e0",
         "android_client_info": {
-          "package_name": "me.sheershbhatnagar.dhvanika"
+          "package_name": "sheersh.bhatnagar.baadal"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "710213675169-eo5ob23qqs8usim9333ftn7jnue11jnc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sheersh.bhatnagar.baadal",
+            "certificate_hash": "a5e473ba0a4f60d36dbb22715a93a2b4b11bd020"
+          }
+        },
+        {
+          "client_id": "710213675169-sov6a2ven70l0c48jr7isr8polo0fttn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
-          "current_key": "AIzaSyAi03fLziZcfDxWHPyTo5A5TN0r8rgHixI"
+          "current_key": "AIzaSyAvGVgIFglrwiWTCT8oGA3B9kjsAirKmDA"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710213675169-sov6a2ven70l0c48jr7isr8polo0fttn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
